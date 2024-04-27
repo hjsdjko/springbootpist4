@@ -30,3 +30,12 @@
 5、打开浏览器，参考<说明文档.txt>中的地址
 
 ***************************************************************
+![fe35b3b9e48eaabdd3f3284708ac13b](https://github.com/hjsdjko/springbootpist4/assets/120558513/f720ec31-b191-45cb-94d7-1f737bc06b28)
+
+![08f30fbc8899ef0efda9c02877d7294](https://github.com/hjsdjko/springbootpist4/assets/120558513/25f65d93-a468-4b52-922a-63ca9ea6a1b4)
+
+![adb80caf035f8ee07d2681145a85b0e](https://github.com/hjsdjko/springbootpist4/assets/120558513/e54b8853-d18f-495e-b70e-cc02a1151238)
+
+![50ebef35f84e14a9dc9651832ffba77](https://github.com/hjsdjko/springbootpist4/assets/120558513/7d803d6f-cc06-4e91-8b44-3a7eaae0d294)
+
+![a89d0f75fae3388afc84df2c4de2650](https://github.com/hjsdjko/springbootpist4/assets/120558513/d800c65a-83a9-405b-a736-3ecf30572a8a)
